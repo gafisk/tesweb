@@ -1,0 +1,13 @@
+Tentang python dan syntax
+- https://belajarpython.com/tutorial/apa-itu-python
+- diakses pada 26-03-2022 01.11
+
+Instalasi python
+- https://www.petanikode.com/python-windows/
+- diakses pada 27-03-2022 08.45
+
+GUI
+- https://docplayer.info/129757381-Graphical-user-interface-gui.html
+- diakses pada 27-03-2022 08.49
+
+
